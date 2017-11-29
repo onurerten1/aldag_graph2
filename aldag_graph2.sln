@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aldag_graph2", "aldag_graph2\aldag_graph2.csproj", "{18324B95-23EE-4B4C-8456-2D98919B8377}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "agsetup", "setup\agsetup\agsetup.vdproj", "{EF15706F-05D0-45D9-9F96-8F1EF1926E17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18324B95-23EE-4B4C-8456-2D98919B8377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18324B95-23EE-4B4C-8456-2D98919B8377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18324B95-23EE-4B4C-8456-2D98919B8377}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{18324B95-23EE-4B4C-8456-2D98919B8377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18324B95-23EE-4B4C-8456-2D98919B8377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF15706F-05D0-45D9-9F96-8F1EF1926E17}.Debug|Any CPU.ActiveCfg = Debug
+		{EF15706F-05D0-45D9-9F96-8F1EF1926E17}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
